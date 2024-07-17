@@ -17,7 +17,7 @@
         "ASPNETCORE_ENVIRONMENT": "Development"
       }
     },
-    "CostumerAPI": {
+    "CustomerAPI": {
       "commandName": "Project",
       "launchBrowser": false,
       "applicationUrl": "https://localhost:2000;http://localhost:2001",
